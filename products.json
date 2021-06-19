@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "60cdee85e54f8951e32c2c18"
+  },
+  "name": "product 1",
+  "price": 11,
+  "photo": "https://image.shutterstock.com/image-photo/natural-cosmetic-cream-serum-skincare-260nw-1029009367.jpg"
+},{
+  "_id": {
+    "$oid": "60cdef72e54f8951e32c2c1a"
+  },
+  "name": "product 2",
+  "price": 21,
+  "photo": "https://image.shutterstock.com/image-photo/natural-cosmetic-cream-serum-skincare-260nw-1029009367.jpg"
+},{
+  "_id": {
+    "$oid": "60cdef7fe54f8951e32c2c1b"
+  },
+  "name": "product 3",
+  "price": 31,
+  "photo": "https://image.shutterstock.com/image-photo/natural-cosmetic-cream-serum-skincare-260nw-1029009367.jpg"
+}]
